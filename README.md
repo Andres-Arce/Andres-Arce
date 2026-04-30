@@ -1,4 +1,9 @@
-## Hi there 👋
+<h1 aling="center"> Hi there! 👋, I'm Andres Arce </h1>
+
+<img src = "" width="" heigth= ""/>
+
+
+<h2>About me<h2/>
 
 <!--
 **Andres-Arce/Andres-Arce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
