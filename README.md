@@ -1,6 +1,6 @@
 <h1 aling="center"> Hi there! 👋, I'm Andres Arce </h1>
 
-<img src = "" width="" heigth= ""/>
+<img src = "./banner.png"/>
 
 
 <h2>About me<h2/>
