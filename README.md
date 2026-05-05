@@ -1,7 +1,7 @@
-<h1 aling="center"> Hi there! 👋, I'm Andres Arce </h1>
-
+<div align="center">
+<h1 align="center"> Hi there! 👋, I'm Andres Arce </h1>
 <img src = "./banner.png"/>
-
+</div>
 
 <h2>About me<h2/>
 
