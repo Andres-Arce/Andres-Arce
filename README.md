@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there!, I'm Andres Arce 👋</h1>
+  <h1> **Hi there!, I'm Andres Arce** 👋</h1>
   <img src="./banner.png" alt="banner" />
 </div>
 
@@ -13,8 +13,6 @@ I enjoy building projects, solving problems, and continuously improving my skill
 - 🌱 Currently learning **Node.js, Backend Development & System Design**
 - 💻 Interested in **Backend Development, APIs, Data Analysis and Software Engineering**
 - 🚀 Self-taught developer who enjoys learning new technologies
-- 🎧 Music lover & 🏀 basketball enthusiast
-
 ---
 
 ## 🛠️ Tech Stack
@@ -33,19 +31,8 @@ I enjoy building projects, solving problems, and continuously improving my skill
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Andres GitHub stats](https://github-readme-stats.vercel.app/api?username=Andres-Arce&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andres-Arce&layout=compact&theme=tokyonight)
-
-</div>
 
 ---
 
