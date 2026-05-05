@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> **Hi there!, I'm Andres Arce** 👋</h1>
+  <h1><b>Hi there!, I'm Andres Arce</b> 👋</h1>
   <img src="./banner.png" alt="banner" />
 </div>
 
